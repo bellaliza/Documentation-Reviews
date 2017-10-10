@@ -24,3 +24,12 @@ Veronical 'Home Page'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
+
+```ruby
+New York, New York 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
+
+
