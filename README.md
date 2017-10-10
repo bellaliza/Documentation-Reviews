@@ -17,3 +17,10 @@ API 'rEST - API'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
+
+
+```ruby
+Veronical 'Home Page'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
